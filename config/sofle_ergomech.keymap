@@ -60,7 +60,7 @@
                                                                        &mkp LCLK  &mmv MOVE_RIGHT  &mmv MOVE_UP      &mmv MOVE_LEFT     &mmv MOVE_DOWN
             >;
 
-            sensor-bindings = <&mousescroll &inc_dec_kp SCRL_UP PG_DN>;
+            sensor-bindings = <&mousescroll>;
         };
 
         lower_layer {
