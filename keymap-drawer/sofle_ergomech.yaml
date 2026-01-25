@@ -92,7 +92,7 @@ layers:
   - UP
   - {t: ▽, type: trans}
   - '0'
-  - {t: ▽, type: trans}
+  - DEL
   - {t: ▽, type: trans}
   - LALT
   - LCTRL
@@ -103,8 +103,8 @@ layers:
   - LEFT
   - DOWN
   - RIGHT
-  - DEL
-  - BSPC
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UNDO
   - CUT
